@@ -5,6 +5,7 @@
 Developed by Marcel Römer Software
 
 character model, character texture and ui assets by Kenney.nl
+
 info icon by Freepik https://www.flaticon.com/authors/freepik
 
 # EULA
