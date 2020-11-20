@@ -51,7 +51,7 @@ Governing Law
 
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of de.
 
-PRIVACY POLICY
+# PRIVACY POLICY
 
 **Privacy Policy**
 
